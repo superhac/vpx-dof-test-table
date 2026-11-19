@@ -1,6 +1,9 @@
 # DOF Test
 
-A Visual Pinball X utility table for testing DirectOutput Framework (DOF) toys one event at a time. The flipper buttons step through DOF events E901 to E990. Only the selected event is on, and the backglass shows its number.
+A Visual Pinball X utility table for testing DirectOutput Framework (DOF) toys one event at a time. The flipper buttons step through DOF events E901 to E990. Only the selected event is on, and the backglass shows its number.  This testing table is based on this [video](https://www.youtube.com/watch?v=TMr3z-oKluA) which will show you how those events should look if you have everything configured right.   
+
+<img width="637" height="357" alt="image" src="https://github.com/user-attachments/assets/87fb7a78-04d0-4d6a-9152-b3648f38ccf2" />
+
 
 ## Contents
 
